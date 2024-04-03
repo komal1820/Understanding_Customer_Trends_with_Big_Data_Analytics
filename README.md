@@ -75,8 +75,10 @@ This project serves as a foundation for further exploration and development. Her
 
 # This repository includes the following files:
 
-Jupyter Notebook (.ipynb): Contains the core analysis code for the project.
-Presentation (.pptx): Summarizes the project findings and key insights in slides.
-Report (.docx): Provides a detailed explanation of the analysis methodology and results.
+**Jupyter Notebook (.ipynb):** Contains the core analysis code for the project.
+
+**Presentation (.pptx):** Summarizes the project findings and key insights in slides.
+
+**Report (.docx):** Provides a detailed explanation of the analysis methodology and results.
 
 
